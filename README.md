@@ -1,4 +1,4 @@
-# Dr. Jyoti Dabass - Portfolio Website available at https://jyotidabass.github.io/Portfolio/
+# Dr. Jyoti Dabass - Portfolio Website available at https://jyotidabass.github.io/
 
 A modern, responsive portfolio website showcasing the professional achievements, research work, and expertise of Dr. Jyoti Dabass in AI/ML, Computer Vision, and Data Science.
 
